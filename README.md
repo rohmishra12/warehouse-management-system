@@ -92,6 +92,3 @@ The system is built on a relational database schema. Below is a summary of the m
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
-
-[MIT License](LICENSE) (or specify your license)
